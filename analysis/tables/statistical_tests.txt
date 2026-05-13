@@ -1,0 +1,23 @@
+Kruskal-Wallis test for reconstruction error by video group
+
+	Kruskal-Wallis rank sum test
+
+data:  reconstruction_l1 by video
+Kruskal-Wallis chi-squared = 22.608, df = 2, p-value = 1.232e-05
+
+
+Pairwise Wilcoxon rank-sum tests with Benjamini-Hochberg correction
+
+	Pairwise comparisons using Wilcoxon rank sum test with continuity correction 
+
+data:  scores$reconstruction_l1 and scores$video 
+
+               lasercmt3.5x lasercmt3.5y
+lasercmt3.5y   0.00016      -           
+lasercmt3.5y-1 0.00016      0.54029     
+
+P value adjustment method: BH 
+
+Training final metrics
+   epoch   train_l1     val_l1
+20    20 0.03572749 0.02601898

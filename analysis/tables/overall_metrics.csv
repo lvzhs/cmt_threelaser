@@ -1,0 +1,12 @@
+"metric","value"
+"test_n",32
+"threshold_p95",0.0384631007909775
+"overall_mean",0.0262439344660379
+"overall_sd",0.00690155952554228
+"overall_median",0.0220666006207466
+"overall_min",0.0185524560511112
+"overall_max",0.0400975085794926
+"anomaly_count",2
+"train_final_l1",0.0357274868836005
+"val_final_l1",0.0260189811308538
+"val_relative_reduction",0.846383835260199

@@ -1,0 +1,11 @@
+"path","video","frame_id","reconstruction_l1","threshold","is_anomaly"
+"data\frames\lasercmt3.5x\lasercmt3.5x_000102.jpg","lasercmt3.5x",102,0.0400975085794926,0.0384631007909775,1
+"data\frames\lasercmt3.5x\lasercmt3.5x_000004.jpg","lasercmt3.5x",4,0.0387192815542221,0.0384631007909775,1
+"data\frames\lasercmt3.5x\lasercmt3.5x_000080.jpg","lasercmt3.5x",80,0.0382535010576248,0.0384631007909775,0
+"data\frames\lasercmt3.5x\lasercmt3.5x_000082.jpg","lasercmt3.5x",82,0.0360758639872074,0.0384631007909775,0
+"data\frames\lasercmt3.5x\lasercmt3.5x_000017.jpg","lasercmt3.5x",17,0.0352893695235252,0.0384631007909775,0
+"data\frames\lasercmt3.5x\lasercmt3.5x_000053.jpg","lasercmt3.5x",53,0.035093791782856,0.0384631007909775,0
+"data\frames\lasercmt3.5x\lasercmt3.5x_000058.jpg","lasercmt3.5x",58,0.0342009179294109,0.0384631007909775,0
+"data\frames\lasercmt3.5x\lasercmt3.5x_000048.jpg","lasercmt3.5x",48,0.0322988852858543,0.0384631007909775,0
+"data\frames\lasercmt3.5x\lasercmt3.5x_000013.jpg","lasercmt3.5x",13,0.0316993445158005,0.0384631007909775,0
+"data\frames\lasercmt3.5x\lasercmt3.5x_000045.jpg","lasercmt3.5x",45,0.0302372090518475,0.0384631007909775,0
