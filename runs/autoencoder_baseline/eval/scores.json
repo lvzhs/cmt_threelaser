@@ -1,0 +1,133 @@
+{
+  "threshold": 0.03846310079097748,
+  "scores": [
+    {
+      "path": "data\\frames\\lasercmt3.5y\\lasercmt3.5y_000003.jpg",
+      "reconstruction_l1": 0.018558787181973457
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000080.jpg",
+      "reconstruction_l1": 0.03825350105762482
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y-1\\lasercmt3.5y-1_000082.jpg",
+      "reconstruction_l1": 0.019501032307744026
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y\\lasercmt3.5y_000067.jpg",
+      "reconstruction_l1": 0.021968182176351547
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y-1\\lasercmt3.5y-1_000090.jpg",
+      "reconstruction_l1": 0.021046604961156845
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000082.jpg",
+      "reconstruction_l1": 0.03607586398720741
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000004.jpg",
+      "reconstruction_l1": 0.03871928155422211
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y\\lasercmt3.5y_000035.jpg",
+      "reconstruction_l1": 0.021265001967549324
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y-1\\lasercmt3.5y-1_000018.jpg",
+      "reconstruction_l1": 0.021052785217761993
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y\\lasercmt3.5y_000005.jpg",
+      "reconstruction_l1": 0.019144590944051743
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y-1\\lasercmt3.5y-1_000003.jpg",
+      "reconstruction_l1": 0.022077981382608414
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y-1\\lasercmt3.5y-1_000093.jpg",
+      "reconstruction_l1": 0.02092692069709301
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000102.jpg",
+      "reconstruction_l1": 0.04009750857949257
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y-1\\lasercmt3.5y-1_000076.jpg",
+      "reconstruction_l1": 0.021863438189029694
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000014.jpg",
+      "reconstruction_l1": 0.030222322791814804
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y-1\\lasercmt3.5y-1_000047.jpg",
+      "reconstruction_l1": 0.02135983668267727
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y\\lasercmt3.5y_000012.jpg",
+      "reconstruction_l1": 0.02387049049139023
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y\\lasercmt3.5y_000004.jpg",
+      "reconstruction_l1": 0.01855245605111122
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000048.jpg",
+      "reconstruction_l1": 0.03229888528585434
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000016.jpg",
+      "reconstruction_l1": 0.029569998383522034
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000017.jpg",
+      "reconstruction_l1": 0.03528936952352524
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y-1\\lasercmt3.5y-1_000005.jpg",
+      "reconstruction_l1": 0.02205521985888481
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y-1\\lasercmt3.5y-1_000091.jpg",
+      "reconstruction_l1": 0.020986435934901237
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000045.jpg",
+      "reconstruction_l1": 0.030237209051847458
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y-1\\lasercmt3.5y-1_000068.jpg",
+      "reconstruction_l1": 0.02197214588522911
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000053.jpg",
+      "reconstruction_l1": 0.03509379178285599
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000072.jpg",
+      "reconstruction_l1": 0.028237026184797287
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y\\lasercmt3.5y_000007.jpg",
+      "reconstruction_l1": 0.02106929011642933
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y\\lasercmt3.5y_000018.jpg",
+      "reconstruction_l1": 0.019491974264383316
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5y\\lasercmt3.5y_000033.jpg",
+      "reconstruction_l1": 0.023047707974910736
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000013.jpg",
+      "reconstruction_l1": 0.031699344515800476
+    },
+    {
+      "path": "data\\frames\\lasercmt3.5x\\lasercmt3.5x_000058.jpg",
+      "reconstruction_l1": 0.034200917929410934
+    }
+  ]
+}

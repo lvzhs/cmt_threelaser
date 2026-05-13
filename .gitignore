@@ -5,8 +5,3 @@ __pycache__/
 *.avi
 *.mov
 *.mkv
-*.pt
-*.pth
-runs/
-data/splits/
-data/frames/manifest.json

@@ -1,0 +1,20 @@
+[
+  {
+    "video": "lasercmt3.5x.mp4",
+    "output_dir": "data\\frames\\lasercmt3.5x",
+    "frames": 108,
+    "status": "done"
+  },
+  {
+    "video": "lasercmt3.5y-1.mp4",
+    "output_dir": "data\\frames\\lasercmt3.5y-1",
+    "frames": 100,
+    "status": "done"
+  },
+  {
+    "video": "lasercmt3.5y.mp4",
+    "output_dir": "data\\frames\\lasercmt3.5y",
+    "frames": 104,
+    "status": "done"
+  }
+]

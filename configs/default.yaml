@@ -1,0 +1,27 @@
+project:
+  seed: 42
+  run_dir: runs/autoencoder_baseline
+
+data:
+  video_dir: .
+  frame_dir: data/frames
+  split_dir: data/splits
+  extract_fps: 5
+  image_size: 256
+  train_ratio: 0.8
+  val_ratio: 0.1
+  extensions: [".mp4", ".avi", ".mov", ".mkv"]
+
+train:
+  epochs: 20
+  batch_size: 16
+  num_workers: 0
+  learning_rate: 0.001
+  weight_decay: 0.000001
+  amp: true
+  latent_channels: 128
+  save_every: 5
+
+eval:
+  threshold_percentile: 95
+  max_visualizations: 32
